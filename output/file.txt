@@ -1,0 +1,3 @@
+#;Tipo;Título;Projeto;Categoria;Situação;Prioridade;Data prevista;Atribuído para;Autor;% Terminado
+31302;Colaborador;XXXX;1;;Em andamento;Normal;07/04/2022;YYYYY;ZZZZZ;50
+31251;Colaborador;XXXX;1;;Em andamento;Normal;06/04/2022;YYYYY;ZZZZZ;50
